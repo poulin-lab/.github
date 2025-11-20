@@ -16,7 +16,7 @@ For lab members: If you are a complete GitHub beginner, it is recommended to rea
 - Write a **clear commit message** describing your changes (e.g., “Added preprocessing script for dataset X”).
 - Make sure your code follows any lab conventions and is commented for clarity.
 
---
+---
 
 ## Sharing Code
 - **Only administrators and owners** can share code with anyone outside of the organization.
@@ -24,7 +24,7 @@ For lab members: If you are a complete GitHub beginner, it is recommended to rea
 - All members of the organization already have access to private repositories, so you **do not need to add lab members as collaborators**.
 - If using GitHub for development: share your work with lab members by creating a pull request or merging changes into the main branch.
 
---
+---
 
 ## Editing Code
 - Always pull the latest changes before starting work.
